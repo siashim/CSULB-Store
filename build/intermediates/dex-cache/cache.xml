@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/cmendoza/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.4.0/f00bc767918ad9c89e5c13e25706d033a58e13c2/firebase-client-android-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f00bc767918ad9c89e5c13e25706d033a58e13c2">
+        <dex dex="/Users/cmendoza/AndroidStudioProjects/CSULBStore1/app/build/intermediates/pre-dexed/debug/firebase-client-android-2.4.0-906b31de01c2dfc4b2835e69cbc7db4778f1e717.jar" />
+    </item>
+    <item
+        jar="/Users/cmendoza/AndroidStudioProjects/CSULBStore1/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="/Users/cmendoza/AndroidStudioProjects/CSULBStore1/app/build/intermediates/pre-dexed/debug/classes-777a554b2c78785747be448e51f8720ea8f7f54b.jar" />
+    </item>
+    <item
+        jar="/Users/cmendoza/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/Users/cmendoza/AndroidStudioProjects/CSULBStore1/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.2-3962afd542b1f65fadb6d2d65f7731d6f9359f8c.jar" />
+    </item>
+    <item
+        jar="/Users/cmendoza/AndroidStudioProjects/CSULBStore1/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="/Users/cmendoza/AndroidStudioProjects/CSULBStore1/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-efee35a8955cde120c5b7d6035e35d8b8daf6a23.jar" />
+    </item>
+    <item
+        jar="/Users/cmendoza/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="/Users/cmendoza/AndroidStudioProjects/CSULBStore1/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-5504edbc1c575dfe8035ff7bb1ab0c03bfdb35dc.jar" />
+    </item>
+    <item
+        jar="/Users/cmendoza/AndroidStudioProjects/CSULBStore1/app/libs/mail.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="/Users/cmendoza/AndroidStudioProjects/CSULBStore1/app/build/intermediates/pre-dexed/debug/mail-e97638f7c7295ed90914cf341c775f2a96d6f3f6.jar" />
+    </item>
+    <item
+        jar="/Users/cmendoza/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/Users/cmendoza/AndroidStudioProjects/CSULBStore1/app/build/intermediates/pre-dexed/debug/jackson-databind-2.2.2-da2dc42c2ba171979190c82c9fc85bd6c96f7a3e.jar" />
+    </item>
+    <item
+        jar="/Users/cmendoza/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.4.0/558e074f136fee609b8758480ecd00e286595137/firebase-client-jvm-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="558e074f136fee609b8758480ecd00e286595137">
+        <dex dex="/Users/cmendoza/AndroidStudioProjects/CSULBStore1/app/build/intermediates/pre-dexed/debug/firebase-client-jvm-2.4.0-abef7cd656ed7f093dd893d61d1e283f03866afa.jar" />
+    </item>
+    <item
+        jar="/Users/cmendoza/AndroidStudioProjects/CSULBStore1/app/libs/activation.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="/Users/cmendoza/AndroidStudioProjects/CSULBStore1/app/build/intermediates/pre-dexed/debug/activation-637c7a7f3d5407e21be5b3289632225d8ee13b03.jar" />
+    </item>
+    <item
+        jar="/Users/cmendoza/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/Users/cmendoza/AndroidStudioProjects/CSULBStore1/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.2.2-b0680d29fbc6e3dd56a8f46ce79bb61e148e1570.jar" />
+    </item>
+    <item
+        jar="/Users/cmendoza/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.12/6ec0bbd3e161a73ed672284b587fd32309a86d7a/tubesock-0.0.12.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="/Users/cmendoza/AndroidStudioProjects/CSULBStore1/app/build/intermediates/pre-dexed/debug/tubesock-0.0.12-178d98adc917346446468841c3d7b2a5aa5b9cc2.jar" />
+    </item>
+    <item
+        jar="/Users/cmendoza/AndroidStudioProjects/CSULBStore1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="/Users/cmendoza/AndroidStudioProjects/CSULBStore1/app/build/intermediates/pre-dexed/debug/classes-5265a63d3c5097dd0da581ae6aa9cd5f15b4ef74.jar" />
+    </item>
+    <item
+        jar="/Users/cmendoza/AndroidStudioProjects/CSULBStore1/app/libs/additionnal.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="/Users/cmendoza/AndroidStudioProjects/CSULBStore1/app/build/intermediates/pre-dexed/debug/additionnal-9c434897fda446f68f81fac81fffb4867a8517c6.jar" />
+    </item>
+    <item
+        jar="/Users/cmendoza/AndroidStudioProjects/CSULBStore1/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/20.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5531cb41e35c81a051a274945542f6b31e4c97e">
+        <dex dex="/Users/cmendoza/AndroidStudioProjects/CSULBStore1/app/build/intermediates/pre-dexed/debug/classes-836c85404e0efe755950bd7a5a9dbac9f3335197.jar" />
+    </item>
+    <item
+        jar="/Users/cmendoza/AndroidStudioProjects/CSULBStore1/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui/0.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98bbbaabe297e06808fc3fcb3bd2eda90335e7e1">
+        <dex dex="/Users/cmendoza/AndroidStudioProjects/CSULBStore1/app/build/intermediates/pre-dexed/debug/classes-7f4c0a0d321f3ca789c65c2aebb604a1fc9be3ac.jar" />
+    </item>
+
+</items>

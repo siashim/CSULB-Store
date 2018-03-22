@@ -1,0 +1,19 @@
+{
+	user
+		-u_id
+		-verified
+		auth
+			-username(email)
+			-password(hash)
+		userinfo
+			-first name
+			-last name
+		posts
+			-post_id
+			-title
+			-image
+			-content
+			-subject
+			-published(bool)
+			-status
+				-sold

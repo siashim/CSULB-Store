@@ -1,0 +1,33 @@
+Binary file ./app/app-release.apk/classes.dex matches
+Binary file ./app/app-release.apk/res/layout/item_page.xml matches
+Binary file ./app/build/intermediates/classes/debug/com/example/csulbstore/CreateAccountActivity$SendMail.class matches
+Binary file ./app/build/intermediates/classes/debug/com/example/csulbstore/FirebaseInterface$SendMail.class matches
+Binary file ./app/build/intermediates/classes/debug/com/example/csulbstore/SendEmail.class matches
+Binary file ./app/build/intermediates/classes/debug/com/example/csulbstore/SingleListView$1.class matches
+Binary file ./app/build/intermediates/classes/debug/com/example/csulbstore/temp_act$2.class matches
+Binary file ./app/build/intermediates/classes/debug/com/example/csulbstore/temp_act.class matches
+Binary file ./app/build/intermediates/classes/release/com/example/csulbstore/AccountInfoActivity$1$1.class matches
+Binary file ./app/build/intermediates/classes/release/com/example/csulbstore/CreateAccountActivity$SendMail.class matches
+Binary file ./app/build/intermediates/classes/release/com/example/csulbstore/FirebaseInterface$SendMail.class matches
+Binary file ./app/build/intermediates/classes/release/com/example/csulbstore/SendEmail.class matches
+Binary file ./app/build/intermediates/classes/release/com/example/csulbstore/SingleListView$1.class matches
+Binary file ./app/build/intermediates/classes/release/com/example/csulbstore/temp_act$2.class matches
+Binary file ./app/build/intermediates/classes/release/com/example/csulbstore/temp_act.class matches
+Binary file ./app/build/intermediates/dex/debug/classes.dex matches
+Binary file ./app/build/intermediates/dex/release/classes.dex matches
+./app/build/intermediates/res/merged/debug/layout/item_page.xml:            android:text="bots_64@mailinator.com"
+./app/build/intermediates/res/merged/release/layout/item_page.xml:            android:text="bots_64@mailinator.com"
+./app/src/main/java/com/example/csulbstore/AccountInfoActivity.java:////		myFirebaseRef.changePassword("123", "bots_64@mailinator.com", "FVeuuhrXebD6a2cd", new Firebase.ResultHandler() {
+./app/src/main/java/com/example/csulbstore/CreateAccountActivity.java:			String[] toArr = {"bots_64@mailinator.com"};
+./app/src/main/java/com/example/csulbstore/FirebaseInterface.java:            String[] toArr = {"bots_64@mailinator.com", "bots_65@mailinator.com"};
+./app/src/main/java/com/example/csulbstore/MainActivity.java://		   String email = "bots_64@mailinator.com";
+./app/src/main/java/com/example/csulbstore/MySingleListView.java://                bots_64@mailinator.com
+./app/src/main/java/com/example/csulbstore/PostAListing.java://        ref.authWithPassword("bots_64@mailinator.com", "FVeuuhrXebD6a2cd",
+./app/src/main/java/com/example/csulbstore/PostAListing.java:                myFirebaseRef.changePassword("123", "bots_64@mailinator.com", "FVeuuhrXebD6a2cd", new Firebase.ResultHandler() {
+./app/src/main/java/com/example/csulbstore/PostAListing.java:                ref.authWithPassword("bots_64@mailinator.com", "FVeuuhrXebD6a2cd",
+./app/src/main/java/com/example/csulbstore/PostAListing.java://        ref.authWithPassword("bots_64@mailinator.com", "FVeuuhrXebD6a2cd",
+./app/src/main/java/com/example/csulbstore/SendEmail.java:    String[] toArr = {"bots_64@mailinator.com", "bots_65@mailinator.com"};
+./app/src/main/java/com/example/csulbstore/SingleListView.java:                i.putExtra(Intent.EXTRA_EMAIL  , new String[]{"bots_64@mailinator.com"});
+./app/src/main/java/com/example/csulbstore/temp_act.java:                        ref.authWithPassword("bots_64@mailinator.com", "abc",
+./app/src/main/java/com/example/csulbstore/temp_act.java:        ref.authWithPassword("bots_64@mailinator.com", "abc",
+./app/src/main/res/layout/item_page.xml:            android:text="bots_64@mailinator.com"
